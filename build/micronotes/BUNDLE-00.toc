@@ -1,0 +1,3 @@
+([('micronotes',
+   '/Users/eduard/Documents/GitHub/Micronotes/dist/micronotes',
+   'EXECUTABLE')],)
